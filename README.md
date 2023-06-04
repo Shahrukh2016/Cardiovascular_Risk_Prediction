@@ -1,5 +1,7 @@
 # Cardiovascular Risk Prediction
 
+![https://images.newscientist.com/wp-content/uploads/2023/03/09122342/SEI_147530907.jpg](https://images.newscientist.com/wp-content/uploads/2023/03/09122342/SEI_147530907.jpg)
+
 This project aims to predict the 10-year risk of developing coronary heart disease (CHD) using the Cardiovascular Risk Prediction dataset. The dataset contains information on 3,390 individuals with 16 predictor variables and 1 target variable. The variables represent potential demographic, behavioral, and medical risk factors.
 
 ## Problem Statement
