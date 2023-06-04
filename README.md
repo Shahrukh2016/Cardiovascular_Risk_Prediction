@@ -30,6 +30,8 @@ Here is a summary of our approach and key steps:
 
 In conclusion, this project presented an extensive exploration of the Cardiovascular Risk Prediction dataset, employing various machine learning techniques to predict the 10-year risk of developing coronary heart disease. By combining data processing, feature engineering, model evaluation, and selection, we successfully built an accurate model capable of identifying potential CHD patients in the future.
 **************************************************************************************************************************************************
+For complete project explaination and to downoad the dataset: [Click here](https://drive.google.com/drive/folders/1e7Zrx8tv1UDXw0mY3HGmJOoj9lLgBtom?usp=sharing)
+
 Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/shahrukhahmad26).
